@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+W3LC()m3 to my GIT
+I will share some learning tools, projects,and learning path + notes. 
+- 🧭 Currently in Canada. 
+- 🌱 I’m currently learning ... InfoSec + Blockchain Technologies. 
+- 🤝🏾 Always open for collab or suggestions. 
 <!--
 **locksmith0fficial/Locksmith0fficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
